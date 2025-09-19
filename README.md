@@ -48,6 +48,10 @@ Language model creation, including data collection and cleaning for pre-training
 - **Playlist:** https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
 - **Codes and materials:** https://web.stanford.edu/class/cs224n/
 
+## 7. RAG Cookbooks
+
+- **Repository:** https://github.com/athina-ai/rag-cookbooks
+
 ---
 
 ## Note
